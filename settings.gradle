@@ -1,0 +1,8 @@
+include 'strategy-pattern'
+include 'proxy-pattern'
+
+rootProject.name = 'design-patterns'
+
+rootProject.children.each {
+    it.buildFileName = it.name + '.gradle'
+}
