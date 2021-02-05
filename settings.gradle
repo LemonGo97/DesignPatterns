@@ -1,5 +1,6 @@
 include 'strategy-pattern'
 include 'proxy-pattern'
+include 'singleton-pattern'
 
 rootProject.name = 'design-patterns'
 
