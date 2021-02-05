@@ -7,3 +7,5 @@
 ## [mutilation-pattern  多例模式](mutilation-pattern/)
 
 ## [factory-method-pattern  工厂方法模式](factory-method-pattern/)
+
+## [abstract-factory-pattern  抽象工厂模式](abstract-factory-pattern/)
