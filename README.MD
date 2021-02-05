@@ -5,3 +5,5 @@
 ## [singleton-pattern  单例模式](singleton-pattern/)
 
 ## [mutilation-pattern  多例模式](mutilation-pattern/)
+
+## [factory-method-pattern  工厂方法模式](factory-method-pattern/)

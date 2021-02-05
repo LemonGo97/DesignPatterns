@@ -2,6 +2,7 @@ include 'strategy-pattern'
 include 'proxy-pattern'
 include 'singleton-pattern'
 include 'mutilation-pattern'
+include 'factory-method-pattern'
 
 rootProject.name = 'design-patterns'
 
