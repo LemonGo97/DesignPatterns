@@ -5,6 +5,8 @@ include 'mutilation-pattern'
 include 'factory-method-pattern'
 include 'abstract-factory-pattern'
 include 'facade-pattern'
+include 'adapter-pattern'
+include 'model-pattern'
 
 rootProject.name = 'design-patterns'
 

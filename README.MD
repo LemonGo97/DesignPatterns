@@ -11,3 +11,7 @@
 ## [abstract-factory-pattern  抽象工厂模式](abstract-factory-pattern/)
 
 ## [facade-pattern  门面模式](facade-pattern/)
+
+## [adapter-pattern  适配器模式](adapter-pattern/)
+
+## [model-pattern  模板模式](model-pattern/)
