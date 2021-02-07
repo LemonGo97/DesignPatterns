@@ -15,3 +15,5 @@
 ## [adapter-pattern  适配器模式](adapter-pattern/)
 
 ## [model-pattern  模板模式](model-pattern/)
+
+## [builder-pattern  构建者模式](builder-pattern/)
