@@ -25,3 +25,5 @@
 ## [decorator-pattern  装饰模式](decorator-pattern/)
 
 ## [iterator-pattern  迭代器模式](iterator-pattern/)
+
+## [composite-pattern  组合模式](composite-pattern/)
