@@ -19,3 +19,5 @@
 ## [builder-pattern  构建者模式](builder-pattern/)
 
 ## [bridge-pattern  桥梁模式](bridge-pattern/)
+
+## [command-pattern  命令模式](command-pattern/)
