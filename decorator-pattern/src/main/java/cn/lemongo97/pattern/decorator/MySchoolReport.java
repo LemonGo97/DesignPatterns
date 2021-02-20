@@ -1,6 +1,6 @@
 package cn.lemongo97.pattern.decorator;
 
-public class MySchoolReport extends SchoolReport{
+public class MySchoolReport implements ISchoolReport {
     @Override
     public void report() {
         System.out.println("尊敬的 XXX 家长：");

@@ -1,10 +1,10 @@
 package cn.lemongo97.pattern.decorator;
 
-public abstract class Decorator extends SchoolReport{
+public abstract class Decorator implements ISchoolReport {
 
-    protected SchoolReport schoolReport;
+    protected ISchoolReport schoolReport;
 
-    public Decorator(SchoolReport schoolReport) {
+    public Decorator(ISchoolReport schoolReport) {
         this.schoolReport = schoolReport;
     }
 

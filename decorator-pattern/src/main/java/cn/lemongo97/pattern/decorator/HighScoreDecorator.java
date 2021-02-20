@@ -1,7 +1,7 @@
 package cn.lemongo97.pattern.decorator;
 
 public class HighScoreDecorator extends Decorator{
-    public HighScoreDecorator(SchoolReport schoolReport) {
+    public HighScoreDecorator(ISchoolReport schoolReport) {
         super(schoolReport);
     }
 

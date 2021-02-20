@@ -11,6 +11,7 @@ include 'builder-pattern'
 include 'bridge-pattern'
 include 'command-pattern'
 include 'decorator-pattern'
+include 'iterator-pattern'
 
 rootProject.name = 'design-patterns'
 

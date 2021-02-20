@@ -1,7 +1,7 @@
 package cn.lemongo97.pattern.decorator;
 
 public class SortDecorator extends Decorator{
-    public SortDecorator(SchoolReport schoolReport) {
+    public SortDecorator(ISchoolReport schoolReport) {
         super(schoolReport);
     }
 
