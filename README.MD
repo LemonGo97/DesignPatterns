@@ -17,3 +17,5 @@
 ## [model-pattern  模板模式](model-pattern/)
 
 ## [builder-pattern  构建者模式](builder-pattern/)
+
+## [bridge-pattern  桥梁模式](bridge-pattern/)

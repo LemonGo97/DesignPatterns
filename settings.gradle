@@ -8,6 +8,7 @@ include 'facade-pattern'
 include 'adapter-pattern'
 include 'model-pattern'
 include 'builder-pattern'
+include 'bridge-pattern'
 
 rootProject.name = 'design-patterns'
 
