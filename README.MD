@@ -21,3 +21,5 @@
 ## [bridge-pattern  桥梁模式](bridge-pattern/)
 
 ## [command-pattern  命令模式](command-pattern/)
+
+## [decorator-pattern  装饰模式](decorator-pattern/)
