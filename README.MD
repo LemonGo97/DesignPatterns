@@ -27,3 +27,5 @@
 ## [iterator-pattern  迭代器模式](iterator-pattern/)
 
 ## [composite-pattern  组合模式](composite-pattern/)
+
+## [observer-pattern  观察者模式](observer-pattern/)

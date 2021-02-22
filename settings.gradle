@@ -13,6 +13,7 @@ include 'command-pattern'
 include 'decorator-pattern'
 include 'iterator-pattern'
 include 'composite-pattern'
+include 'observer-pattern'
 
 rootProject.name = 'design-patterns'
 
