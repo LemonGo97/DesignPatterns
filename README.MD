@@ -33,3 +33,5 @@
 ## [chain-of-responsibility-pattern  责任链模式](chain-of-responsibility-pattern/)
 
 ## [visitor-pattern  访问者模式](visitor-pattern/)
+
+## [state-pattern  状态模式](state-pattern/)
