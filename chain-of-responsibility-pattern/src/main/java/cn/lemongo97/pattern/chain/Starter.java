@@ -4,7 +4,7 @@ public class Starter {
 
     public static void main(String[] args) {
         ProcessChain chain = new ProcessChain();
-        chain.addChain(new BoolHandler()).addChain(new IntHandler()).addChain(new StringHandler());
+        chain.addChainLast(new BoolHandler()).addChainLast(new IntHandler()).addChainLast(new StringHandler());
 
         chain.process("abc");
         chain.process(true);

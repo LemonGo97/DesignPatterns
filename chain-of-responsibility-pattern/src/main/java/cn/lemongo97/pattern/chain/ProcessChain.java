@@ -6,7 +6,12 @@ import java.util.List;
 public class ProcessChain {
     private final List<ProcessHandler> chains = new ArrayList<>();
 
-    public ProcessChain addChain(ProcessHandler handler){
+    public ProcessChain addChainFirst(ProcessHandler handler){
+        chains.add(0, handler);
+        return this;
+    }
+
+    public ProcessChain addChainLast(ProcessHandler handler){
         chains.add(handler);
         return this;
     }
