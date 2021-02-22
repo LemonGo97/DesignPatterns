@@ -29,3 +29,5 @@
 ## [composite-pattern  组合模式](composite-pattern/)
 
 ## [observer-pattern  观察者模式](observer-pattern/)
+
+## [chain-of-responsibility-pattern  责任链模式](chain-of-responsibility-pattern/)

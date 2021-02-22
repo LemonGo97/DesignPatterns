@@ -14,6 +14,7 @@ include 'decorator-pattern'
 include 'iterator-pattern'
 include 'composite-pattern'
 include 'observer-pattern'
+include 'chain-of-responsibility-pattern'
 
 rootProject.name = 'design-patterns'
 
