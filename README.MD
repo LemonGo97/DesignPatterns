@@ -37,3 +37,5 @@
 ## [state-pattern  状态模式](state-pattern/)
 
 ## [prototype-pattern  原型模式](prototype-pattern/)
+
+## [mediator-pattern  中介者模式](mediator-pattern/)

@@ -18,6 +18,7 @@ include 'chain-of-responsibility-pattern'
 include 'visitor-pattern'
 include 'state-pattern'
 include 'prototype-pattern'
+include 'mediator-pattern'
 
 rootProject.name = 'design-patterns'
 
