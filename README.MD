@@ -35,3 +35,5 @@
 ## [visitor-pattern  访问者模式](visitor-pattern/)
 
 ## [state-pattern  状态模式](state-pattern/)
+
+## [prototype-pattern  原型模式](prototype-pattern/)

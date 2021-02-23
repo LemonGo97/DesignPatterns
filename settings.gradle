@@ -17,6 +17,7 @@ include 'observer-pattern'
 include 'chain-of-responsibility-pattern'
 include 'visitor-pattern'
 include 'state-pattern'
+include 'prototype-pattern'
 
 rootProject.name = 'design-patterns'
 
